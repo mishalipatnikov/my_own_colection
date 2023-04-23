@@ -1,0 +1,4 @@
+---
+# defaults file for single_task_role
+path: '/tmp/file.txt'
+content: 'Test text. Single Task Role'
